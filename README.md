@@ -1,5 +1,18 @@
 ##DynamoDB_local within a docker container.
 
+## Running
+Run without parameters to see help:
+```
+docker run zomplabs/dynamodb_local
+```
+
+Example:
+
+Run "in memory" using port 8000
+```
+docker run -p 8000:8000 zomplabs/dynamodb_local -inMemory
+```
+
 ## License
 Unless otherwise stated
 
