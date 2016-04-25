@@ -1,6 +1,7 @@
 ##DynamoDB_local within a docker container.
 
 [![Docker Stars](https://img.shields.io/docker/stars/zomplabs/dynamodb_local.svg)](https://hub.docker.com/r/zomplabs/zomplabs/dynamodb_local)
+[![Docker Pulls](https://img.shields.io/docker/pulls/zomplabs/dynamodb_local.svg)](https://hub.docker.com/r/zomplabs/dynamodb_local)
 
 ## Running
 Run without parameters to see help:
